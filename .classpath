@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anala/OneDrive - Universidad Autónoma de Tamaulipas/UAT/3° Semestre/3. PROGRAMACION AVANZADA/jar_files/commons-lang3-3.8.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anala/OneDrive - Universidad Autónoma de Tamaulipas/UAT/3° Semestre/3. PROGRAMACION AVANZADA/jar_files/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anala/OneDrive - Universidad Autónoma de Tamaulipas/UAT/3° Semestre/3. PROGRAMACION AVANZADA/jar_files/hsqldb-2.5.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anala/OneDrive - Universidad Autónoma de Tamaulipas/UAT/3° Semestre/3. PROGRAMACION AVANZADA/jar_files/jackcess-3.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/anala/OneDrive - Universidad Autónoma de Tamaulipas/UAT/3° Semestre/3. PROGRAMACION AVANZADA/jar_files/ucanaccess-5.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
